@@ -1,0 +1,4 @@
+vless://d64f5e28-8374-4f1e-90ac-adfc0083c121@[::ffff:108.162.194.28]:443?encryption=none&security=tls&sni=ultra.tegra.hdr21.mkjhuhd.site&fp=chrome&type=ws&host=ultra.tegra.hdr21.mkjhuhd.site&path=%2F%3Fed%3D2048#Tegra%201
+vless://d64f5e28-8374-4f1e-90ac-adfc0083c121@[::ffff:108.162.194.28]:443?encryption=none&security=tls&sni=ultra.tegra.hdr22.mkjhuhd.site&fp=chrome&type=ws&host=ultra.tegra.hdr22.mkjhuhd.site&path=%2F%3Fed%3D2048#Tegra%202
+vless://d64f5e28-8374-4f1e-90ac-adfc0083c121@[::ffff:108.162.194.28]:443?encryption=none&security=tls&sni=ultra.tegra.hdr23.mkjhuhd.site&fp=chrome&type=ws&host=ultra.tegra.hdr23.mkjhuhd.site&path=%2F%3Fed%3D2048#Tegra%203
+vless://d64f5e28-8374-4f1e-90ac-adfc0083c121@[::ffff:108.162.194.28]:443?encryption=none&security=tls&sni=ultra.tegra.hdr24.mkjhuhd.site&fp=chrome&type=ws&host=ultra.tegra.hdr24.mkjhuhd.site&path=%2F%3Fed%3D2048#Tegra%204
